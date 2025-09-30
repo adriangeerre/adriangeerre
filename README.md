@@ -16,7 +16,14 @@
   </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriangeerre" alt="adriangeerre" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriangeerre&show_icons=true&locale=en&layout=compact" alt="adriangeerre" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adriangeerre&show_icons=true&locale=en" alt="adriangeerre" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriangeerre&" alt="adriangeerre" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriangeerre&show_icons=true&locale=en&layout=compact&theme=swift&bg_color=00000000&border_color=00000000" alt="adriangeerre" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adriangeerre&show_icons=true&locale=en&theme=swift&bg_color=00000000&border_color=00000000" alt="adriangeerre" />
+</p>
+
+<p>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adriangeerre&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2CEB545400%2CEB545400" alt="GitHub Streak" /></a>
+</p>
