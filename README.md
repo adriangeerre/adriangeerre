@@ -17,13 +17,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriangeerre&show_icons=true&locale=en&layout=compact&theme=swift&bg_color=00000000&border_color=00000000" alt="adriangeerre" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adriangeerre&show_icons=true&locale=en&theme=swift&bg_color=00000000&border_color=00000000" alt="adriangeerre" />
-</p>
-
-<p>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adriangeerre&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2CEB545400%2CEB545400" alt="GitHub Streak" /></a>
 </p>
